@@ -1,4 +1,4 @@
-:local gfwdns 192.168.55.1
+:local gfwdns 192.168.53.1
 /ip dns static remove [/ip dns static find type=FWD]
 /ip dns static
 add regexp="(\\.|^)030buy\\.com\$" type=FWD forward-to=$gfwdns
