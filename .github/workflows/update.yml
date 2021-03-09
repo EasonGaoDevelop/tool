@@ -33,6 +33,7 @@ jobs:
         git config --local user.email "384210721@qq.com"
         git config --local user.name "EasonGaoDevelop"
         git commit -m "Add changes" -a
+        git status
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
