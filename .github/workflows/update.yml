@@ -32,6 +32,7 @@ jobs:
       run: |
         git config --local user.email "384210721@qq.com"
         git config --local user.name "EasonGaoDevelop"
+        git status
         git commit -m "Add changes" -a
         git status
     - name: Push changes
