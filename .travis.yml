@@ -19,8 +19,8 @@ script:
 - cd /tmp/
 - git clone https://${GIT_USER}:${TOKEN}@github.com/${GIT_USER}/${REPO}.git --branch gh-pages --single-branch gh-pages > /dev/null 2>&1 || exit 1
 - cd gh-pages || exit 1
-- git config user.name "goodffd"
-- git config user.email "goodffd@gmail.com"
+- git config user.name "easongao"
+- git config user.email "littlegao7@gmail.com"
 - cp $TRAVIS_BUILD_DIR/output/* .
 - git add -A
 - git commit -a -m "Configuration Files Generated on [$DATE_TIME]"
