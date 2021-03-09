@@ -32,7 +32,8 @@ jobs:
       run: |
         git config --local user.email "384210721@qq.com"
         git config --local user.name "EasonGaoDevelop"
-        git status
+        git add gfwlist_domain.rsc
+        git add gfwlist2dnsmasq.sh
         git commit -m "Add changes" -a
         git status
     - name: Push changes
