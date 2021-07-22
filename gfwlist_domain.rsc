@@ -559,6 +559,7 @@ add regexp="(\\.|^)bit\\.do\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bit\\.ly\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bitbay\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bitc\\.bme\\.emory\\.edu\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)bitchute\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bitcointalk\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bitcoinworld\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bitfinex\\.com\$" type=FWD forward-to=$gfwdns
@@ -5040,6 +5041,7 @@ add regexp="(\\.|^)tpi\\.org\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tracfone\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)traffichaus\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trans\\.wenweipo\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)translate\\.google\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)transparency\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)treemall\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trendsmap\\.com\$" type=FWD forward-to=$gfwdns
