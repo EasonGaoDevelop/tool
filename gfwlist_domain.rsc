@@ -116,6 +116,7 @@ add regexp="(\\.|^)888\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)888poker\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)89-64\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)89\\.64\\.charter\\.constitutionalism\\.solutions\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)8964museum\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)8news\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)8z1\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)9001700\\.com\$" type=FWD forward-to=$gfwdns
