@@ -4099,6 +4099,7 @@ add regexp="(\\.|^)putlocker\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)putty\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)puuko\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pwned\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)pximg\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)python\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)python\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pythonhackers\\.com\$" type=FWD forward-to=$gfwdns
@@ -4293,6 +4294,7 @@ add regexp="(\\.|^)sacks\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)sacom\\.hk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)sadistic-v\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)sadpanda\\.us\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)safechat\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)safervpn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)safety\\.google\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)saintyculture\\.com\$" type=FWD forward-to=$gfwdns
@@ -4984,6 +4986,7 @@ add regexp="(\\.|^)tintuc101\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tiny\\.cc\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tinychat\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tinypaste\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)tipas\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tipo\\.gov\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tistory\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tkcs-collins\\.com\$" type=FWD forward-to=$gfwdns
@@ -5743,6 +5746,7 @@ add regexp="(\\.|^)wzyboy\\.im\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)x-art\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)x-berry\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)x-wall\\.org\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)x\\.co\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)x\\.company\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)x1949x\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)x24hr\\.com\$" type=FWD forward-to=$gfwdns
