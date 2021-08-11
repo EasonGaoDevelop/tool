@@ -3594,6 +3594,7 @@ add regexp="(\\.|^)newschinacomment\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)newscn\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)newsdetox\\.ca\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)newsdh\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)newsmax\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)newspeak\\.cc\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)newstamago\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)newstapa\\.org\$" type=FWD forward-to=$gfwdns
