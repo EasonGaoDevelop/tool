@@ -3997,6 +3997,7 @@ add regexp="(\\.|^)polymer-project\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)polymerhk\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)popo\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)popvote\\.hk\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)popxi\\.click\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)popyard\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)popyard\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)porn\\.com\$" type=FWD forward-to=$gfwdns
