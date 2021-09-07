@@ -374,6 +374,7 @@ add regexp="(\\.|^)asianews\\.it\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)asiansexdiary\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)asianspiss\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)asianwomensfilm\\.de\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)asiaone\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)asiatgp\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)asiatoday\\.us\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)askstudent\\.com\$" type=FWD forward-to=$gfwdns
@@ -2453,6 +2454,7 @@ add regexp="(\\.|^)heungkongdiscuss\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hexieshe\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hexieshe\\.xyz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hexxeh\\.net\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)heyuedi\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)heyzo\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hgseav\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hhdcb3office\\.org\$" type=FWD forward-to=$gfwdns
@@ -4821,6 +4823,7 @@ add regexp="(\\.|^)tellme\\.pw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tenacy\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tensorflow\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tenzinpalmo\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)terabox\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tew\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)textnow\\.me\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tfhub\\.dev\$" type=FWD forward-to=$gfwdns
