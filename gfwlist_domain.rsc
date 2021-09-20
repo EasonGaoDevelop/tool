@@ -4401,6 +4401,7 @@ add regexp="(\\.|^)shadowsocks\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)shadowsocks\\.com\\.hk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)shadowsocks\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)shadowsocks9\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)shahit\\.biz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)shambalapost\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)shambhalasun\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)shangfang\\.org\$" type=FWD forward-to=$gfwdns
@@ -5055,6 +5056,7 @@ add regexp="(\\.|^)tpi\\.org\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tracfone\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)traffichaus\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trans\\.wenweipo\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)translate\\.goog\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)translate\\.google\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)transparency\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)treemall\\.com\\.tw\$" type=FWD forward-to=$gfwdns
