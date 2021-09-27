@@ -3495,6 +3495,7 @@ add regexp="(\\.|^)mynetav\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mynumber\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)myparagliding\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mypicture\\.info\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)mypikpak\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mypop3\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mypop3\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mypopescu\\.com\$" type=FWD forward-to=$gfwdns
