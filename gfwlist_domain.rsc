@@ -1113,6 +1113,7 @@ add regexp="(\\.|^)coinbene\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)coinegg\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)coinex\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)coingi\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)coinmarketcap\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)coinrail\\.co\\.kr\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)cointiger\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)cointobe\\.com\$" type=FWD forward-to=$gfwdns
@@ -1890,6 +1891,7 @@ add regexp="(\\.|^)frootvpn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)fscked\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)fsurf\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ftchinese\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)ftp\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ftp1\\.biz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ftpserver\\.biz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ftv\\.com\\.tw\$" type=FWD forward-to=$gfwdns
@@ -5055,7 +5057,7 @@ add regexp="(\\.|^)toytractorshow\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tparents\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tpi\\.org\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tracfone\\.com\$" type=FWD forward-to=$gfwdns
-add regexp="(\\.|^)traffichaus\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)tradingview\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trans\\.wenweipo\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)translate\\.goog\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)translate\\.google\$" type=FWD forward-to=$gfwdns
