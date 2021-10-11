@@ -2583,6 +2583,7 @@ add regexp="(\\.|^)hopedialogue\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hopto\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hornygamer\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hornytrip\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)horrorporn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hotair\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hotav\\.tv\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)hotels\\.cn\$" type=FWD forward-to=$gfwdns
