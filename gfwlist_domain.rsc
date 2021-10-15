@@ -46,6 +46,7 @@ add regexp="(\\.|^)2-hand\\.info\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)2000fun\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)2008xianzhang\\.info\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)2017\\.hk\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)2021hkcharter\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)2047\\.name\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)21andy\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)21join\\.com\$" type=FWD forward-to=$gfwdns
@@ -586,6 +587,7 @@ add regexp="(\\.|^)blinkx\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blinw\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blip\\.tv\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blockcn\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)blockedbyhk\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blockless\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blog\\.calibre-ebook\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blog\\.cnyes\\.com\$" type=FWD forward-to=$gfwdns
@@ -718,6 +720,7 @@ add regexp="(\\.|^)bongacams\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)boobstagram\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)book\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)book\\.zi5\\.me\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)bookdepository\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bookepub\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)books\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)booktopia\\.com\\.au\$" type=FWD forward-to=$gfwdns
@@ -2088,6 +2091,7 @@ add regexp="(\\.|^)gongwt\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goo\\.gl\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gooday\\.xyz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gooddns\\.info\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)goodhope\\.school\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goodreaders\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goodreads\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goodtv\\.com\\.tw\$" type=FWD forward-to=$gfwdns
