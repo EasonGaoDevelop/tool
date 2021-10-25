@@ -3671,6 +3671,7 @@ add regexp="(\\.|^)nordstrom\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)nordstromimage\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)nordstromrack\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)nordvpn\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)notepad-plus-plus\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)notify\\.dropboxapi\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)nottinghampost\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)novelasia\\.com\$" type=FWD forward-to=$gfwdns
@@ -4183,6 +4184,7 @@ add regexp="(\\.|^)raremovie\\.cc\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)raremovie\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)rateyourmusic\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)rationalwiki\\.org\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)raw\\.githack\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)raw\\.githubusercontent\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)rawgit\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)rawgithub\\.com\$" type=FWD forward-to=$gfwdns
