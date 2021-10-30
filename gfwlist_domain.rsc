@@ -4868,6 +4868,7 @@ add regexp="(\\.|^)thehots\\.info\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thehousenews\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thehun\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)theinitium\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)themoviedb\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thenewslens\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thepiratebay\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)theporndude\\.com\$" type=FWD forward-to=$gfwdns
@@ -4883,6 +4884,7 @@ add regexp="(\\.|^)thetibetmuseum\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thetibetpost\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thetinhat\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thetrotskymovie\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)thetvdb\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thevivekspot\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)thewgo\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)theync\\.com\$" type=FWD forward-to=$gfwdns
