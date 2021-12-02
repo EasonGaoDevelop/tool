@@ -1069,6 +1069,7 @@ add regexp="(\\.|^)clinica-tibet\\.ru\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)clipfish\\.de\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)cloakpoint\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)cloud\\.mail\\.ru\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)cloudflare-ipfs\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)club1069\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)clubhouseapi\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)clyp\\.it\$" type=FWD forward-to=$gfwdns
@@ -2018,6 +2019,7 @@ add regexp="(\\.|^)gfgold\\.com\\.hk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gfsale\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gfw\\.org\\.ua\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gfw\\.press\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)gfw\\.report\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ggpht\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ggssl\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ghidra-sre\\.org\$" type=FWD forward-to=$gfwdns
@@ -4065,6 +4067,7 @@ add regexp="(\\.|^)privateinternetaccess\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)privatepaste\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)privatetunnel\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)privatevpn\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)privoxy\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)procopytips\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)project-syndicate\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)prosiben\\.de\$" type=FWD forward-to=$gfwdns
