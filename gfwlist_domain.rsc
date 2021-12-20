@@ -4297,6 +4297,7 @@ add regexp="(\\.|^)rukor\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)rule34\\.xxx\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)runbtx\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)rushbee\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)rusvpn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ruten\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)rutube\\.ru\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ruyiseek\\.com\$" type=FWD forward-to=$gfwdns
