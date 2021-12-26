@@ -704,6 +704,7 @@ add regexp="(\\.|^)bloomberg\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bloomberg\\.de\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bloombergview\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bloomfortune\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)blubrry\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blueangellive\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bmfinn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bnews\\.co\$" type=FWD forward-to=$gfwdns
@@ -4097,6 +4098,7 @@ add regexp="(\\.|^)psiphontoday\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pt\\.im\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pts\\.org\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ptt\\.cc\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)pttgame\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pttvan\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pubu\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)puffinbrowser\\.com\$" type=FWD forward-to=$gfwdns
@@ -4945,7 +4947,9 @@ add regexp="(\\.|^)tibetanbuddhistinstitute\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tibetancommunity\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tibetancommunityuk\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tibetanculture\\.org\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)tibetanentrepreneurs\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tibetanfeministcollective\\.org\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)tibetanhealth\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tibetanjournal\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tibetanlanguage\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)tibetanliberation\\.org\$" type=FWD forward-to=$gfwdns
@@ -5086,6 +5090,7 @@ add regexp="(\\.|^)trialofccp\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trickip\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trickip\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trimondi\\.de\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)tronscan\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trouw\\.nl\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trt\\.net\\.tr\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)trtc\\.com\\.tw\$" type=FWD forward-to=$gfwdns
