@@ -1325,7 +1325,6 @@ add regexp="(\\.|^)dharamsalanet\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)dharmakara\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)dhcp\\.biz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)diaoyuislands\\.org\$" type=FWD forward-to=$gfwdns
-add regexp="(\\.|^)dictionary\\.goo\\.ne\\.jp\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)difangwenge\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)digiland\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)digisfera\\.com\$" type=FWD forward-to=$gfwdns
@@ -2097,6 +2096,7 @@ add regexp="(\\.|^)gongmeng\\.info\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gongminliliang\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gongwt\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goo\\.gl\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)goo\\.ne\\.jp\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gooday\\.xyz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gooddns\\.info\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goodhope\\.school\$" type=FWD forward-to=$gfwdns
@@ -3425,6 +3425,7 @@ add regexp="(\\.|^)moneyhome\\.biz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)monitorchina\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)monster\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)moodyz\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)moon\\.fm\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)moonbbs\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)moonbingo\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)moptt\\.tw\$" type=FWD forward-to=$gfwdns
@@ -4014,6 +4015,7 @@ add regexp="(\\.|^)pmates\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)po2b\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pobieramy\\.top\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)podbean\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)podcast\\.co\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)podictionary\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pokerstars\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)pokerstars\\.net\$" type=FWD forward-to=$gfwdns
