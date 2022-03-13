@@ -757,6 +757,7 @@ add regexp="(\\.|^)breakingtweets\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)breakwall\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)briefdream\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)briian\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)brill\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)brizzly\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)brkmd\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)broadbook\\.com\$" type=FWD forward-to=$gfwdns
