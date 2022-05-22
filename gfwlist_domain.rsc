@@ -3820,6 +3820,7 @@ add regexp="(\\.|^)onedrive\\.live\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)onedumb\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)onejav\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)onion\\.city\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)onion\\.ly\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)online\\.recoveryversion\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)onlinecha\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)onlineyoutube\\.com\$" type=FWD forward-to=$gfwdns
@@ -5738,6 +5739,7 @@ add regexp="(\\.|^)wordpress\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)workatruna\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)workerdemo\\.org\\.hk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)workerempowerment\\.org\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)workers\\.dev\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)workersthebig\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)worldcat\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)worldjournal\\.com\$" type=FWD forward-to=$gfwdns
