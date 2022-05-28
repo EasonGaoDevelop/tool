@@ -5607,6 +5607,7 @@ add regexp="(\\.|^)waveprotocol\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)waymo\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)wda\\.gov\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)wdf5\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)wealth\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)wearehairy\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)wearn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)web\\.dev\$" type=FWD forward-to=$gfwdns
@@ -5859,6 +5860,7 @@ add regexp="(\\.|^)xihua\\.es\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)xijie\\.wordpress\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)xing\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)xinhuanet\\.org\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)xinjiangpolicefiles\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)xinmiao\\.com\\.hk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)xinqimeng\\.over-blog\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)xinsheng\\.net\$" type=FWD forward-to=$gfwdns
