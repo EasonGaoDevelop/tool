@@ -3967,12 +3967,11 @@ add regexp="(\\.|^)peoplebookcafe\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)peoplenews\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)peopo\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)percy\\.in\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)perfect-privacy\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)perfectgirls\\.net\$" type=FWD forward-to=$gfwdns
-add regexp="(\\.|^)perfectvpn\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)periscope\\.tv\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)persecutionblog\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)persiankitty\\.com\$" type=FWD forward-to=$gfwdns
-add regexp="(\\.|^)pfd\\.org\\.hk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)phapluan\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)phayul\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)philborges\\.com\$" type=FWD forward-to=$gfwdns
