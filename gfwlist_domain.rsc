@@ -153,6 +153,7 @@ add regexp="(\\.|^)about\\.google\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)aboutgfw\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)abs\\.edu\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ac\\.jiruan\\.net\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)acast\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)accim\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)accountkit\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)aceros-de-hispania\\.com\$" type=FWD forward-to=$gfwdns
@@ -710,6 +711,7 @@ add regexp="(\\.|^)blubrry\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)blueangellive\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bmfinn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bnews\\.co\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)bnext\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bnn\\.co\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bnrmetal\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)boardreader\\.com\$" type=FWD forward-to=$gfwdns
@@ -1774,6 +1776,7 @@ add regexp="(\\.|^)fireofliberty\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)firetweet\\.io\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)firstfivefollowers\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)firstpost\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)firstrade\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)flagsonline\\.it\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)flecheinthepeche\\.fr\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)fleshbot\\.com\$" type=FWD forward-to=$gfwdns
