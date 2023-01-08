@@ -442,6 +442,7 @@ add regexp="(\\.|^)baidu\\.jp\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)baijie\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bailandaily\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)baixing\\.me\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)baizhi\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)bakgeekhome\\.tk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)banana-vpn\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)band\\.us\$" type=FWD forward-to=$gfwdns
@@ -1961,6 +1962,7 @@ add regexp="(\\.|^)gamer2-cds\\.cdn\\.hinet\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gamez\\.com\\.tw\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gamousa\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ganges\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)ganjing\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)ganjingworld\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gaoming\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gaopi\\.net\$" type=FWD forward-to=$gfwdns
